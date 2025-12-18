@@ -1,0 +1,22 @@
+{
+  "name": "nodephish",
+  "version": "1.0.0",
+  "description": "Educational phishing library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebuggedMoon/nodephish.git"
+  },
+  "keywords": [
+    "phishing"
+  ],
+  "author": "DebuggedMoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DebuggedMoon/nodephish/issues"
+  },
+  "homepage": "https://github.com/DebuggedMoon/nodephish#readme"
+}
